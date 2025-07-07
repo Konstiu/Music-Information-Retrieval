@@ -1,4 +1,5 @@
 # Music Retrieval (Shazam Implementation)
+![image](https://github.com/user-attachments/assets/274c5749-7bbd-4b5e-bf4b-c6ad9a315255)
 
 This repository contains an implementation of the audio identification algorithm described in the [Original Shazam Paper (Wang, 2003)](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf). The algorithm utilizes audio fingerprint hashing for efficient and accurate audio retrieval.
 
